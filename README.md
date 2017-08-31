@@ -1,4 +1,4 @@
-# Udacity Portfolio
+# Simple Portfolio
 
 A simple portfolio made with [Bootstrap](http://getbootstrap.com/).
 
